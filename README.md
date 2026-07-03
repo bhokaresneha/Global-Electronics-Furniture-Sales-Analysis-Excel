@@ -82,6 +82,9 @@ The dataset contains transaction-level sales data including:
 
 ---
 
+<img width="1834" height="764" alt="Screenshot 2026-07-02 130139" src="https://github.com/user-attachments/assets/568b54f3-9eb3-4cf0-89ea-df3e49d80f3a" />
+
+
 ## 📊 Key Performance Metrics
 
 | KPI | Value |
